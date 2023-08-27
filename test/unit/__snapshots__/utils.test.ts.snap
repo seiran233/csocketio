@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`utils parseAuth 1`] = `"auth must be field:value"`;
+
+exports[`utils parseAuth 2`] = `"auth must be field:value"`;
+
+exports[`utils parseAuth 3`] = `"auth must be field:value"`;
+
+exports[`utils parseAuth 4`] = `"auth must be field:value"`;
+
+exports[`utils parseAuth 5`] = `"auth must be field:value"`;
+
+exports[`utils parseAuth 6`] = `"auth must be field:value"`;
+
+exports[`utils parseJSON 1`] = `"options must be json"`;
+
+exports[`utils parseTime 1`] = `"timeout must be number"`;

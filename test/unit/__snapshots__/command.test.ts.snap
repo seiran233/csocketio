@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`command Invalid JSON value 1`] = `"options must be json"`;
+
+exports[`command Invalid auth 1`] = `"auth must be field:value"`;
+
+exports[`command Invalid auth 2`] = `"auth must be field:value"`;
+
+exports[`command Invalid auth 3`] = `"auth must be field:value"`;
+
+exports[`command Invalid auth 4`] = `"auth must be field:value"`;
+
+exports[`command Invalid auth 5`] = `"auth must be field:value"`;
